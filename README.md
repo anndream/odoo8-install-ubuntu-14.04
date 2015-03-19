@@ -26,6 +26,7 @@ sudo apt-get install git
 3.ดาวน์โหลด script ไปยัง server
 ===========================
 cd
+
 git clone https://github.com/guitarstyle/odoo8-Thai-install-ubuntu-14.04.git
 
 4.เข้าไปยัง ไดเรคทอรี่   odoo8-Thai-install-ubuntu-14.04
