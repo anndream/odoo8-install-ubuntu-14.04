@@ -10,7 +10,7 @@
 3.ปัจจุปันมี VPS ให้ใช้งานอยู่มากมายในที่นี้ขอแนะนำ Digital Ocean ซึ่งตอนนี้มี VPS Server อยู่ที่สิงคโปรค์และราคาถูกมาก เริ่มต้นเดือนละ 5$ หรือ 300 กว่าบาท/เดือนเท่านั้น (ถูกกว่าเมืองไทยมาก) และได้ความเร็วใกล้เคียงกับเมืองไทย
 
 ก็อบปี้ ลิ้งค์นี้เพื่อสมัครและรับฟรี 10$ ใช้งานฟรี 2 เดือน https://www.digitalocean.com/?refcode=ea909e9c0fc9
-
+4.ติดตั้ง openssh และ login ให้เรียบร้อย
 ===========================
 
 วิธีการติดตั้งให้ทำตามคำสั่งต่อไปนี้
@@ -28,7 +28,8 @@ sudo apt-get install git
 cd
 git clone https://github.com/guitarstyle/odoo8-Thai-install-ubuntu-14.04.git
 
-4.เข้าไปยัง ไดเรคทอรี่   odoo8-Thai-install-ubuntu-14.04 
+4.เข้าไปยัง ไดเรคทอรี่   odoo8-Thai-install-ubuntu-14.04
+
 cd odoo8-Thai-install-ubuntu-14.04/odoo-v8/ubuntu-14-04/
 sudo chmod +x odoo_install.sh
 sudo ./odoo_install.sh
