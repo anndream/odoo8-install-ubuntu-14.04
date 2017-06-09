@@ -31,7 +31,7 @@ git clone https://github.com/anndream/odoo8-install-ubuntu-14.04.git
 
 4.เข้าไปยัง ไดเรคทอรี่   odoo8-Thai-install-ubuntu-14.04
 ===========================
-cd odoo8-Thai-install-ubuntu-14.04/odoo-v8/ubuntu-14-04/
+cd odoo8-install-ubuntu-14.04/odoo-v8/ubuntu-14-04/
 
 sudo chmod +x odoo_install.sh
 
