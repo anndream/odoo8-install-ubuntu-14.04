@@ -27,7 +27,7 @@ sudo apt-get install git
 ===========================
 cd
 
-git clone https://github.com/guitarstyle/odoo8-Thai-install-ubuntu-14.04.git
+git clone https://github.com/anndream/odoo8-install-ubuntu-14.04.git
 
 4.เข้าไปยัง ไดเรคทอรี่   odoo8-Thai-install-ubuntu-14.04
 ===========================
